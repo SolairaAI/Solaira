@@ -1,6 +1,7 @@
 # Solaira 🌐  
 **Ticker: SOLAI**  
-**Contract address: N/A**
+**Contract Address: N/A**
+
 **Tagline**: *"AI-Powered Intelligence for the Solana Ecosystem and Beyond"*
 
 Solaira is a cutting-edge AI platform designed to supercharge the Solana ecosystem with AI-driven tools and services. From trading bots to smart contract optimization and on-chain analytics, Solaira empowers developers, traders, and businesses to leverage AI for smarter decisions and seamless blockchain integration.
