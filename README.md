@@ -1,15 +1,15 @@
-# SOLAIRAra 🌐  
-**Ticker: SOLAIRARA**  
+# SOLAIRA 🌐  
+**Ticker: $SOLAIRA**  
 **Contract Address: N/A**
 
 **Tagline**: *"AI-Powered Intelligence for the Solana Ecosystem and Beyond"*
 
-SOLAIRAra is a cutting-edge AI platform designed to supercharge the Solana ecosystem with AI-driven tools and services. From trading bots to smart contract optimization and on-chain analytics, SOLAIRAra empowers developers, traders, and businesses to leverage AI for smarter decisions and seamless blockchain integration.
+SOLAIRA is a cutting-edge AI platform designed to supercharge the Solana ecosystem with AI-driven tools and services. From trading bots to smart contract optimization and on-chain analytics, SOLAIRA empowers developers, traders, and businesses to leverage AI for smarter decisions and seamless blockchain integration.
 
 ---
 
 ## Table of Contents
-- [About SOLAIRAra](#about-SOLAIRAra)
+- [About SOLAIRA](#about-SOLAIRA)
 - [Key Features](#key-features)
 - [Installation](#installation)
 - [API Key](#api-key)
@@ -22,15 +22,15 @@ SOLAIRAra is a cutting-edge AI platform designed to supercharge the Solana ecosy
   - [Smart Contract Agent](#smart-contract-agent)
   - [Analytics Agent](#analytics-agent)
 - [Token Utility](#token-utility)
-- [Why Use SOLAIRAra?](#why-use-SOLAIRAra)
+- [Why Use SOLAIRA?](#why-use-SOLAIRA)
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
 
 ---
 
-## About SOLAIRAra
-SOLAIRAra is a decentralized AI platform built to bring advanced artificial intelligence to the Solana blockchain. It provides a suite of tools and agents that enable developers, traders, and businesses to automate processes, analyze data, and optimize smart contracts with ease. SOLAIRAra is designed to be lightweight, efficient, and highly customizable, making it the perfect choice for integrating AI into your blockchain projects.
+## About SOLAIRA
+SOLAIRA is a decentralized AI platform built to bring advanced artificial intelligence to the Solana blockchain. It provides a suite of tools and agents that enable developers, traders, and businesses to automate processes, analyze data, and optimize smart contracts with ease. SOLAIRA is designed to be lightweight, efficient, and highly customizable, making it the perfect choice for integrating AI into your blockchain projects.
 
 ---
 
@@ -61,17 +61,17 @@ SOLAIRAra is a decentralized AI platform built to bring advanced artificial inte
 - Premium Features: Access advanced AI tools and analytics.
 
 ## **API Key**
-To use SOLAIRAra, you need a [DeepSeek AI API key](https://platform.deepseek.com/api_keys). Obtain your API key from [DeepSeek AI](https://platform.deepseek.com/api_keys) and configure it in your project.
+To use SOLAIRA, you need a [DeepSeek AI API key](https://platform.deepseek.com/api_keys). Obtain your API key from [DeepSeek AI](https://platform.deepseek.com/api_keys) and configure it in your project.
 
-⚠️ Note: SOLAIRAra is not affiliated with DeepSeek AI but uses it as a base AI for its agents.
+⚠️ Note: SOLAIRA is not affiliated with DeepSeek AI but uses it as a base AI for its agents.
 
 ## Usage Examples
 ### Synchronous Example
 ```
-from SOLAIRAra import SOLAIRAra
+from SOLAIRA import SOLAIRA
 
-# Initialize the SOLAIRAra client
-api = SOLAIRAra(api_key="your_deepseek_api_key")
+# Initialize the SOLAIRA client
+api = SOLAIRA(api_key="your_deepseek_api_key")
 
 # Call the API endpoint synchronously
 response = api.call_endpoint(
@@ -90,11 +90,11 @@ print("Metadata:", response.metadata)
 ### Asynchronous Example
 ```
 import asyncio
-from SOLAIRAra import SOLAIRAraAsync
+from SOLAIRA import SOLAIRAAsync
 
 async def main():
-    # Initialize the SOLAIRAra async client
-    api = SOLAIRAraAsync(api_key="your_deepseek_api_key")
+    # Initialize the SOLAIRA async client
+    api = SOLAIRAAsync(api_key="your_deepseek_api_key")
 
     # Call the API endpoint asynchronously
     response = await api.call_endpoint(
@@ -138,14 +138,14 @@ asyncio.run(main())
 - Real-time on-chain data analysis.
 
 ## Token Utility 💎
-The SOLAIRA token is the backbone of the SOLAIRAra ecosystem. It provides the following utilities:
+The SOLAIRA token is the backbone of the SOLAIRA ecosystem. It provides the following utilities:
 - Governance: Vote on platform upgrades and feature requests.
 - Staking: Earn rewards by staking SOLAIRA tokens.
 - Premium Features: Access advanced AI tools and analytics.
 
 The Solaira team will retain 6% of the $SOLAIRA token supply, which will be locked for six months and vested monthly over the following year.
 
-## Why Use SOLAIRAra? 🚀
+## Why Use SOLAIRA? 🚀
 - Flexible Modes: Supports both synchronous and asynchronous workflows.
 - Custom Exception Handling: Provides informative error messages for easier debugging.
 - Rich Responses: Includes metadata and detailed insights in every response.
@@ -153,22 +153,22 @@ The Solaira team will retain 6% of the $SOLAIRA token supply, which will be lock
 - Open Source: Free to use and open for contributions.
 
 ## Contributing 🤝
-We welcome contributions! Feel free to submit issues or pull requests on our [GitHub repository](https://github.com/SOLAIRAraAI/SOLAIRAra).
+We welcome contributions! Feel free to submit issues or pull requests on our [GitHub repository](https://github.com/SOLAIRAAI/SOLAIRA).
 
 ## Support 📧
 For issues or questions, please:
 - Open an issue on GitHub.
-- Reach out via email: support@SOLAIRAra.dev.
+- Reach out via email: support@SOLAIRA.dev.
 
 ## License 📜
-SOLAIRAra is released under the MIT License. See [LICENSE](#license) for details.
+SOLAIRA is released under the MIT License. See [LICENSE](#license) for details.
 
-**Thank you for choosing SOLAIRAra! Let’s build the future of AI-powered blockchain intelligence together. 🌌**
+**Thank you for choosing SOLAIRA! Let’s build the future of AI-powered blockchain intelligence together. 🌌**
 
 ---
 
 ## Installation 🛠️
-Install SOLAIRAra directly from PyPI:
+Install SOLAIRA directly from PyPI:
 ```bash
-pip install git+https://github.com/SOLAIRAraai/SOLAIRAra.git
+pip install git+https://github.com/SOLAIRAai/SOLAIRA.git
 
