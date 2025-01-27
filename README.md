@@ -1,5 +1,5 @@
 # Solaira 🌐  
-**Ticker: SOLAI**  
+**Ticker: SOLAIRA**  
 **Contract Address: N/A**
 
 **Tagline**: *"AI-Powered Intelligence for the Solana Ecosystem and Beyond"*
