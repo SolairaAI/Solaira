@@ -1,6 +1,6 @@
 # SOLAIRA 🌐  
 **Ticker: $SOLAIRA**  
-**Contract Address: N/A**
+**Contract Address: EGf5UW6nR1kirswdf1Mrp9mccr6jEQhjMopkMXCapump**
 
 **Tagline**: *"AI-Powered Intelligence for the Solana Ecosystem and Beyond"*
 
